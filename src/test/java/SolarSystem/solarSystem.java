@@ -9,5 +9,11 @@ public class solarSystem {
         solar.star = "2";
         System.out.println("the solar system is ready");
 
+
+        planet1 renox = new planet1();
+        renox.color = "grey";
+        renox.size = "10km";
+        renox.radius = "5m";
+
     }
 }
