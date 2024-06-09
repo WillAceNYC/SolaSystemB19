@@ -10,17 +10,17 @@ public class solarSystem {
         System.out.println("the solar system is ready");
 
 
-<<<<<<< HEAD
+
         planet1 renox = new planet1();
         renox.color = "grey";
         renox.size = "10km";
         renox.radius = "5m";
-=======
+
         planet2 perox = new planet2();
         perox.color = "green";
         perox.size = "1m";
         perox.radius = "3m";
->>>>>>> planet2
+
 
     }
 }
